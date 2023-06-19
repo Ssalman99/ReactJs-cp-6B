@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.place-image {
+  height: 210px;
+  width: 300px;
+}
+
+.place-name {
+  font-family: 'Roboto';
+  color: #252627;
+}
+
+.image-container {
+  list-style-type: none;
+  margin: 10px;
+}
